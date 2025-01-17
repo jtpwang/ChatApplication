@@ -1,6 +1,6 @@
 
 <h2>Overview</h2>
-<p>This assignment focuses on creating a chat application with Firebase integration. Users can register, log in, and chat with each other in a one-on-one setting. The main screen displays a list of chat friends, and users can send text messages that are saved to Firestore.</p>
+<p>This project focuses on creating a chat application with Firebase integration. Users can register, log in, and chat with each other in a one-on-one setting. The main screen displays a list of chat friends, and users can send text messages that are saved to Firestore.</p>
 
 <h2>Features</h2>
 <ul>
